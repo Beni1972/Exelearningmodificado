@@ -1,0 +1,31 @@
+﻿1
+00:00:08,000 --> 00:00:10,500
+The Seven Wonders of the World
+
+2
+00:00:14,000 --> 00:00:16,500
+The Taj Mahal, India
+
+3
+00:00:20,000 --> 00:00:22,000
+The Great Wall of China
+
+4
+00:00:27,000 --> 00:00:29,500
+Machu Picchu, Peru
+
+5
+00:00:33,500 --> 00:00:36,500
+The Colosseum, Rome, Italy
+
+6
+00:00:40,000 --> 00:00:42,500
+Christ the Redeemer, Brazil
+
+7
+00:00:46,000 --> 00:00:48,000
+Petra, Jordan
+
+8
+00:00:53,000 --> 00:00:56,000
+Chichén Itzá, México
